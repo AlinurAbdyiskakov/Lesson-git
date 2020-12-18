@@ -87,6 +87,8 @@ main h1{
     display: flex;
     justify-content: center;
 }
+footer a{color: #ffffff;text-decoration: none;
+}
 
 @media (max-width: 690px) {
   header h2 {
