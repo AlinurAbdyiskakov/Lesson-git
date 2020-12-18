@@ -50,6 +50,10 @@ nav li a {
 nav li a:hover{
     border-bottom: 4px solid rgba(255, 255, 255, 0.5);;
 }
+nav li a:active{
+    border-bottom: 4px solid rgba(255, 255, 255, 0.5);;
+    transition: 50s;
+}
 
 @media (max-width: 690px) {
   header h2 {
