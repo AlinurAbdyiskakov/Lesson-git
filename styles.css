@@ -55,6 +55,14 @@ nav li a:active{
     transition: 50s;
 }
 
+main 
+{
+  text-align: center;
+  margin: 10% auto;
+  max-width: 670px;
+}
+
+
 @media (max-width: 690px) {
   header h2 {
     margin-left: 220px;
