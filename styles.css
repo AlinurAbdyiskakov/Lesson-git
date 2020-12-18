@@ -83,7 +83,10 @@ main h1{
       border-radius: 5px;
       margin-top: 20px;
   }
-
+  .footer{
+    display: flex;
+    justify-content: center;
+}
 
 @media (max-width: 690px) {
   header h2 {
