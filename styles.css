@@ -94,4 +94,7 @@ main h1{
     margin-top: 25px;
     margin-left: -168px;
   }
+  .main{margin-top: 120px;max-width: 600px;}
+  main p{max-width: 445px;}
+.main button{margin-left:-30px ;}
 }
