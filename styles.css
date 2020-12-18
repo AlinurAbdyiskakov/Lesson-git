@@ -65,7 +65,15 @@ main
 main h1{
     color: white;
   }
- 
+  main p{
+    color: white;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    line-height: 30px;
+    
+}
+
 
 @media (max-width: 690px) {
   header h2 {
